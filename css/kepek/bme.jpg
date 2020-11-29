@@ -1,0 +1,689 @@
+<!DOCTYPE HTML>
+<!--[if IEMobile 7]><html class="iem7"  lang="hu" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="hu" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="hu" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="hu" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="hu" dir="ltr" prefix="og: http://ogp.me/ns# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.bme.hu/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.bme.hu/mediakit-arculati-elemek" />
+<link rel="shortlink" href="https://www.bme.hu/node/58" />
+<meta property="og:site_name" content="Budapesti Műszaki és Gazdaságtudományi Egyetem" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.bme.hu/mediakit-arculati-elemek" />
+<meta property="og:title" content="Médiakit, arculati elemek" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.bme.hu/mediakit-arculati-elemek" />
+<meta name="twitter:title" content="Médiakit, arculati elemek" />
+  <title>Médiakit, arculati elemek | Budapesti Műszaki és Gazdaságtudományi Egyetem</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <style>
+@import url("https://www.bme.hu/modules/system/system.base.css?qke9gj");
+@import url("https://www.bme.hu/modules/system/system.messages.css?qke9gj");
+@import url("https://www.bme.hu/modules/system/system.theme.css?qke9gj");
+</style>
+<style>
+@import url("https://www.bme.hu/sites/all/modules/calendar/css/calendar_multiday.css?qke9gj");
+@import url("https://www.bme.hu/modules/comment/comment.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/modules/date/date_api/date.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?qke9gj");
+@import url("https://www.bme.hu/modules/field/theme/field.css?qke9gj");
+@import url("https://www.bme.hu/modules/node/node.css?qke9gj");
+@import url("https://www.bme.hu/modules/poll/poll.css?qke9gj");
+@import url("https://www.bme.hu/modules/search/search.css?qke9gj");
+@import url("https://www.bme.hu/modules/user/user.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/modules/views/css/views.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/modules/ckeditor/css/ckeditor.css?qke9gj");
+</style>
+<style>
+@import url("https://www.bme.hu/sites/all/modules/ctools/css/ctools.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/modules/custom_search/custom_search.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/modules/date/date_views/css/date_views.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/modules/addtoany/addtoany.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/libraries/superfish/css/superfish.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/libraries/superfish/style/white.css?qke9gj");
+@import url("https://www.bme.hu/sites/default/files/ctools/css/7f227fca0c2c40aada09f57bacc0e7af.css?qke9gj");
+</style>
+<style>
+@import url("https://www.bme.hu/sites/all/themes/foo/css/normalize.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/wireframes.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/layouts/fixed-width.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/tabs.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/pages.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/blocks.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/navigation.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/views-styles.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/nodes.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/comments.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/forms.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/fields.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/print.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/portal.css?qke9gj");
+@import url("https://www.bme.hu/sites/all/themes/foo/css/responsive.css?qke9gj");
+</style>
+  <script src="https://www.bme.hu/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.bme.hu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://www.bme.hu/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.4.4"></script>
+<script src="https://www.bme.hu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.bme.hu/misc/drupal.js?qke9gj"></script>
+<script src="https://www.bme.hu/sites/all/modules/eu_cookie_compliance/js/jquery.cookie-1.4.1.min.js?v=1.4.1"></script>
+<script src="https://www.bme.hu/misc/jquery.form.js?v=2.52"></script>
+<script src="https://www.bme.hu/misc/ajax.js?v=7.75"></script>
+<script src="https://www.bme.hu/sites/default/files/languages/hu_D3rv6S9MPdvwjUIaQXVX5nrDiE0ds9xbLYx5fX7LW1g.js?qke9gj"></script>
+<script src="https://www.bme.hu/sites/all/modules/custom_search/js/custom_search.js?qke9gj"></script>
+<script src="https://www.bme.hu/sites/all/modules/views/js/base.js?qke9gj"></script>
+<script src="https://www.bme.hu/misc/progress.js?v=7.75"></script>
+<script src="https://www.bme.hu/sites/all/modules/views/js/ajax_view.js?qke9gj"></script>
+<script src="https://www.bme.hu/sites/all/modules/google_analytics/googleanalytics.js?qke9gj"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-69605227-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://www.bme.hu/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?qke9gj"></script>
+<script src="https://www.bme.hu/sites/all/libraries/superfish/sfsmallscreen.js?qke9gj"></script>
+<script src="https://www.bme.hu/sites/all/libraries/superfish/superfish.js?qke9gj"></script>
+<script src="https://www.bme.hu/sites/all/libraries/superfish/supersubs.js?qke9gj"></script>
+<script src="https://www.bme.hu/sites/all/modules/superfish/superfish.js?qke9gj"></script>
+<script src="https://www.bme.hu/sites/all/themes/foo/js/script.js?qke9gj"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"foo","theme_token":"a729YYDGZ22FC2PJd8ORvjQ-qOWYCrs8RpKeC29PzqE","js":{"0":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"public:\/\/languages\/hu_D3rv6S9MPdvwjUIaQXVX5nrDiE0ds9xbLYx5fX7LW1g.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/foo\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/modules\/date\/date_views\/css\/date_views.css":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/style\/white.css":1,"public:\/\/ctools\/css\/7f227fca0c2c40aada09f57bacc0e7af.css":1,"sites\/all\/themes\/foo\/system.menus.css":1,"sites\/all\/themes\/foo\/css\/normalize.css":1,"sites\/all\/themes\/foo\/css\/wireframes.css":1,"sites\/all\/themes\/foo\/css\/layouts\/fixed-width.css":1,"sites\/all\/themes\/foo\/css\/page-backgrounds.css":1,"sites\/all\/themes\/foo\/css\/tabs.css":1,"sites\/all\/themes\/foo\/css\/pages.css":1,"sites\/all\/themes\/foo\/css\/blocks.css":1,"sites\/all\/themes\/foo\/css\/navigation.css":1,"sites\/all\/themes\/foo\/css\/views-styles.css":1,"sites\/all\/themes\/foo\/css\/nodes.css":1,"sites\/all\/themes\/foo\/css\/comments.css":1,"sites\/all\/themes\/foo\/css\/forms.css":1,"sites\/all\/themes\/foo\/css\/fields.css":1,"sites\/all\/themes\/foo\/css\/print.css":1,"sites\/all\/themes\/foo\/css\/portal.css":1,"sites\/all\/themes\/foo\/css\/responsive.css":1}},"custom_search":{"form_target":"_self","solr":0},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:a28c02eb4de9274ad342f80871cd1ec4":{"view_name":"calendar","view_display_id":"block_1","view_args":"2020-11","view_path":"node\/58","view_base_path":"calendar-node-field-idopont\/month","view_dom_id":"a28c02eb4de9274ad342f80871cd1ec4","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/mediakit-arculati-elemek":true},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":0,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EA BME k\u00f6zponti honlapja s\u00fctiket (cookies) alkalmaz. A webhely haszn\u00e1lat\u00e1val \u00d6n beleegyezik a s\u00fctik alkalmaz\u00e1s\u00e1ba.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ETov\u00e1bbi inform\u00e1ci\u00f3\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EElfogadom\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ETov\u00e1bbi inform\u00e1ci\u00f3\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EElfogadom\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003E\tThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EElrejt\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003ETov\u00e1bbi inform\u00e1ci\u00f3\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/suti-tajekoztato","popup_link_new_window":1,"popup_position":null,"fixed_top_position":false,"popup_language":"hu","store_consent":true,"better_support_for_screen_readers":0,"reload_page":0,"domain":"www.bme.hu","domain_all_sites":null,"popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003E\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003E\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_name":"","containing_element":"body","automatic_cookies_removal":""},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":{"1":{"id":"1","sf":{"delay":"0","animation":{"opacity":"show"},"speed":1,"autoArrows":true,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Main menu"},"supposition":false,"bgiframe":false,"supersubs":{"minWidth":"20","maxWidth":"27","extraWidth":1}}}}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-58 node-type-page i18n-hu section-mediakit-arculati-elemek" >
+	
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      <!--[if IE 7]>
+<style type="text/css">
+  #block-search-form {top: 0 !important;}
+  h1#site-name{font-weight: 400 !important;}
+</style>
+<![endif]-->
+<div class="width100" style="background: #000;height: 27px;">
+	<div id="tophead" class="width1000">
+		<!--<a href="">EN</a> | <a href="">HU</a>-->
+		  <div class="region region-top">
+    <div id="block-block-5" class="block block-block first last odd">
+
+      
+  <p><span class="phone"><a class="phone" href="https://telefon.bme.hu/">TELEFONKÖNYV</a></span> | <a href="/elerhetoseg"> TÉRKÉP </a> | <a href="/?language=hu">HU</a> | <a href="/?language=en">EN</a></p>
+
+</div>
+  </div><!-- /.region -->
+	</div>
+</div>
+<div class="width100" style="background: #a82b31; height: 6px;"></div>
+
+<div id="page">
+	
+
+   <header id="header" role="banner">
+	
+		<img id="mobile-search-icon" alt="search-icon" src="/sites/all/themes/foo/images/search-icon.svg" />
+		<img id="mobile-menu-icon" alt="mobile-menu-icon" src="/sites/all/themes/foo/images/mobile-menu-icon.svg" />
+		
+		      <a class="desktop-logo" href="/" title="Címlap" rel="home" id="logo"><img src="https://www.bme.hu/sites/all/themes/foo/logo.png" alt="Címlap" /></a>
+    		
+          <hgroup id="name-and-slogan">
+                  <h1 id="site-name">
+            <span>Budapesti Műszaki és Gazdaságtudományi Egyetem</span>
+			<span style="color: #a82b31;font-size: 13px;text-transform: none;">Vezető a műszaki felsőoktatásban</span>
+          </h1>
+        	  </hgroup>
+    	
+		      <a class="mobile-logo" href="/" title="Címlap" rel="home" id="logo"><img src="https://www.bme.hu/sites/all/themes/foo/logo.png.svg" alt="Címlap" /></a>
+    	
+      <div class="header__region region region-header">
+    <div id="block-search-form" class="block block-search first last odd" role="search">
+
+      
+  <form class="search-form" role="search" action="/mediakit-arculati-elemek" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Keresés űrlap</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search this site </label>
+ <input title="A keresendő kifejezések megadása." class="custom-search-box form-text" placeholder="" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input alt=" " class="custom-search-button form-submit" type="image" id="edit-submit" name="op" src="https://www.bme.hu/sites/default/files/custom_search/searchbutton.png" /></div><input type="hidden" name="form_build_id" value="form-lJaNdKCboif_dpCIk5WErrGc885mOvlfMrf-8Z0n_ac" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div><!-- /.region -->
+
+  </header>
+
+  <div id="main">
+    <div id="navigation">
+        <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish first last odd">
+
+      
+  <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-white sf-total-items-9 sf-parent-items-7 sf-single-items-2"><li id="menu-351-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-11 sf-parent-children-3 sf-single-children-8 menuparent"><a href="/egyetemunkrol" class="sf-depth-1 menuparent">Egyetemünkről</a><ul><li id="menu-352-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/rektori-koszonto" class="sf-depth-2">Rektori köszöntő</a></li><li id="menu-356-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/vezetok" class="sf-depth-2">Vezetők</a></li><li id="menu-656-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><a href="/szervezeti-felepites" class="sf-depth-2 menuparent">Szervezeti felépítés</a><ul><li id="menu-357-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/bme-szervezeti-felepitese" class="sf-depth-3">A BME szervezeti felépítése</a></li><li id="menu-358-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="https://rektori.bme.hu/" title="" class="sf-depth-3">Szenátus, szenátusi bizottságok, Rektori Tanács</a></li><li id="menu-361-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/karok" class="sf-depth-3">Karok</a></li><li id="menu-5633-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/FIEK" class="sf-depth-3">Felsőoktatási és Ipari Együttműködési Központ</a></li><li id="menu-362-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/szolgaltato-szervezetek" class="sf-depth-3">Szolgáltató Szervezetek</a></li><li id="menu-363-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="http://fdsz.bme.hu/" title="" class="sf-depth-3">Felsőoktatási Dolgozók Szakszervezete</a></li><li id="menu-2998-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/kt" class="sf-depth-3">Közalkalmazotti Tanács</a></li><li id="menu-5511-1" class="last even sf-item-8 sf-depth-3 sf-no-children"><a href="http://www.ehk.bme.hu" title="" class="sf-depth-3">Hallgatói és doktorandusz önkormányzat</a></li></ul></li><li id="menu-353-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/elerhetoseg" class="sf-depth-2">Elérhetőség</a></li><li id="menu-354-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/egyetem-multja-tortenete" class="sf-depth-2">Az Egyetem múltja, története</a></li><li id="menu-4532-1" class="middle even sf-item-6 sf-depth-2 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/kivalosagaink" class="sf-depth-2 menuparent">Kiválóságaink</a><ul><li id="menu-4534-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/nobel-dijasok" class="sf-depth-3">Nobel-díjasok</a></li><li id="menu-4542-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/akademikusok" class="sf-depth-3">Akadémikusok</a></li><li id="menu-4533-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/diszpolgarok" class="sf-depth-3">Díszpolgárok</a></li><li id="menu-4541-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/tiszteletbeli-doktorok" class="sf-depth-3">Tiszteletbeli doktorok</a></li><li id="menu-7141-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/ipari_professzorok_Neumann_Janos_professzorok" class="sf-depth-3">Ipari professzorok, Neumann János professzorok</a></li><li id="menu-4535-1" class="last even sf-item-6 sf-depth-3 sf-no-children"><a href="/olimpikonok" class="sf-depth-3">Olimpikonok</a></li></ul></li><li id="menu-355-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/tenyek-es-adatok-a-bme-rol" class="sf-depth-2">Tények és adatok</a></li><li id="menu-3123-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/rangsorok" class="sf-depth-2">A BME a nemzetközi és hazai rangsorokban</a></li><li id="menu-6478-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="/adatvedelem" class="sf-depth-2">Adatvédelem</a></li><li id="menu-2997-1" class="middle even sf-item-10 sf-depth-2 sf-no-children"><a href="/allaspalyazatok" title="" class="sf-depth-2">Álláspályázatok</a></li><li id="menu-364-1" class="last odd sf-item-11 sf-depth-2 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><a href="/dokumentumok" class="sf-depth-2 menuparent">Dokumentumok</a><ul><li id="menu-365-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/alapito-okirat" class="sf-depth-3">Alapító okirat</a></li><li id="menu-366-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/szmr" class="sf-depth-3">Szervezeti és működési rend</a></li><li id="menu-2578-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/szabalyzatok-utasitasok-korlevelek" class="sf-depth-3">Szabályzatok, utasítások, körlevelek</a></li><li id="menu-367-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/intezmenyfejlesztesi-terv" class="sf-depth-3">Intézményfejlesztési terv</a></li><li id="menu-368-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="http://www.kontrolling.bme.hu/" title="" class="sf-depth-3">BME kontrolling jelentése</a></li><li id="menu-369-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/bme-koltsegvetese" class="sf-depth-3">BME 2019-es költségvetése</a></li><li id="menu-370-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="https://rektori.bme.hu/content/szenatus" title="" class="sf-depth-3">Szenátusi határozatok</a></li><li id="menu-1688-1" class="last even sf-item-8 sf-depth-3 sf-no-children"><a href="/intezmenyakkreditacio_2014" class="sf-depth-3">Intézményakkreditáció 2014</a></li></ul></li></ul></li><li id="menu-218-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/hirek" title="" class="sf-depth-1">Hírek</a></li><li id="menu-564-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><a href="/karok" title="" class="sf-depth-1 menuparent">Karok</a><ul><li id="menu-375-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/EMK" class="sf-depth-2">Építőmérnöki Kar (ÉMK)</a></li><li id="menu-377-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/GPK" class="sf-depth-2">Gépészmérnöki Kar (GPK)</a></li><li id="menu-374-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/EPK" class="sf-depth-2">Építészmérnöki Kar (ÉPK)</a></li><li id="menu-380-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/VBK" class="sf-depth-2">Vegyészmérnöki és Biomérnöki Kar (VBK)</a></li><li id="menu-381-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/VIK" class="sf-depth-2">Villamosmérnöki és Informatikai Kar (VIK)</a></li><li id="menu-378-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/KJK" class="sf-depth-2">Közlekedésmérnöki és Járműmérnöki Kar (KJK)</a></li><li id="menu-379-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/TTK" class="sf-depth-2">Természettudományi Kar (TTK)</a></li><li id="menu-376-1" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="/GTK" class="sf-depth-2">Gazdaság- és Társadalomtudományi Kar (GTK)</a></li></ul></li><li id="menu-7686-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="https://kancellaria.bme.hu" title="" class="sf-depth-1 menuparent">Kancellária</a><ul><li id="menu-7687-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://kancellaria.bme.hu/munkatarsaknak" title="" class="sf-depth-2">Intranet</a></li><li id="menu-7688-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="https://kancellaria.bme.hu/kancellaria" title="" class="sf-depth-2">Kancellária</a></li><li id="menu-7689-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://kancellaria.bme.hu/hirek" title="" class="sf-depth-2">Hírek, aktualitások</a></li><li id="menu-7690-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="https://kancellaria.bme.hu/kozerdeku-adatok" title="" class="sf-depth-2">Közérdekű adatok</a></li><li id="menu-7691-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://kancellaria.bme.hu/projektek" title="" class="sf-depth-2">Projektek</a></li><li id="menu-7692-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="https://kancellaria.bme.hu/kommunikacio" title="" class="sf-depth-2">Rendezvény és kommunikáció</a></li></ul></li><li id="menu-382-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-11 sf-parent-children-0 sf-single-children-11 menuparent"><a href="/oktatas" class="sf-depth-1 menuparent">Oktatás</a><ul><li id="menu-473-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/felvetelizoknek" class="sf-depth-2">Felvételizőknek</a></li><li id="menu-383-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/alapszakok" title="" class="sf-depth-2">Alapszakok (Bprof, BSc, BA)</a></li><li id="menu-384-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/mesterszakok" title="" class="sf-depth-2">Mesterszakok (MSc, MA)</a></li><li id="menu-4258-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/doktori-kepzesek" class="sf-depth-2">Doktori képzések (PhD, DLA)</a></li><li id="menu-386-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/osztatlan-kepzesek" class="sf-depth-2">Osztatlan képzés</a></li><li id="menu-387-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/szakiranyu-tovabbkepzesek" class="sf-depth-2">Szakirányú továbbképzések</a></li><li id="menu-388-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/egyetem-es-karkozi" class="sf-depth-2">Egyetem- és karközi képzések</a></li><li id="menu-698-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="http://www.bme.hu/education?language=en" title="" class="sf-depth-2">Idegen nyelvű képzések</a></li><li id="menu-390-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="/felnottkepzes" class="sf-depth-2">Felnőttképzés</a></li><li id="menu-4259-1" class="middle even sf-item-10 sf-depth-2 sf-no-children"><a href="/mernoktovabbkepzo-intezet" class="sf-depth-2">BME Mérnöktovábbképző Intézet</a></li><li id="menu-3796-1" class="last odd sf-item-11 sf-depth-2 sf-no-children"><a href="/tehetseggondozas" class="sf-depth-2">Tehetséggondozás</a></li></ul></li><li id="menu-392-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-8 sf-parent-children-2 sf-single-children-6 menuparent"><a href="/kutatas-fejlesztes-innovacio" class="sf-depth-1 menuparent">K+F+I</a><ul><li id="menu-3757-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/kutatas-fejlesztes-es-innovacio-a-bme-n" class="sf-depth-2">Kutatás-fejlesztés és innováció a BME-n</a></li><li id="menu-396-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/projektek" class="sf-depth-2">Projektek</a></li><li id="menu-7693-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-2 sf-single-children-0 menuparent"><a href="/kivalosagi-programok" class="sf-depth-2 menuparent">Kiválósági programok</a><ul><li id="menu-7697-1" class="first odd sf-item-1 sf-depth-3 sf-total-children-2 sf-parent-children-1 sf-single-children-1 menuparent"><a href="/kivalosagi-programok_futo-programok" class="sf-depth-3 menuparent">Futó programok</a><ul><li id="menu-7694-1" class="first odd sf-item-1 sf-depth-4 sf-no-children"><a href="https://projektek.bme.hu/index.php?site=3_1_0&amp;i=11" title="" class="sf-depth-4">Tématerületi Kiválósági Program</a></li><li id="menu-3877-1" class="last even sf-item-2 sf-depth-4 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/unkp" class="sf-depth-4 menuparent">Új Nemzeti Kiválóság Program</a><ul><li id="menu-7374-1" class="first odd sf-item-1 sf-depth-5 sf-no-children"><a href="/unkp_2020" class="sf-depth-5">ÚNKP 2020</a></li><li id="menu-6936-1" class="middle even sf-item-2 sf-depth-5 sf-no-children"><a href="/unkp_2019" class="sf-depth-5">ÚNKP 2019</a></li><li id="menu-5980-1" class="middle odd sf-item-3 sf-depth-5 sf-no-children"><a href="/unkp_2018" class="sf-depth-5">ÚNKP 2018</a></li><li id="menu-5206-1" class="middle even sf-item-4 sf-depth-5 sf-no-children"><a href="/unkp_2017" class="sf-depth-5">ÚNKP 2017</a></li><li id="menu-5205-1" class="last odd sf-item-5 sf-depth-5 sf-no-children"><a href="/unkp_2016" class="sf-depth-5">ÚNKP 2016</a></li></ul></li></ul></li><li id="menu-7698-1" class="last even sf-item-2 sf-depth-3 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/kivalosagi-programok_lezarult-programok" class="sf-depth-3 menuparent">Lezárult programok</a><ul><li id="menu-7696-1" class="first odd sf-item-1 sf-depth-4 sf-no-children"><a href="/fikp" title="" class="sf-depth-4">Felsőoktatási Intézményi Kiválósági Program</a></li><li id="menu-393-1" class="last even sf-item-2 sf-depth-4 sf-no-children"><a href="http://kutatas.bme.hu/" title="" class="sf-depth-4">Kutatóegyetemi program</a></li></ul></li></ul></li><li id="menu-5750-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/celsa" class="sf-depth-2 menuparent">CELSA Kutatási Támogatás</a><ul><li id="menu-7685-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/celsa_2021" class="sf-depth-3">CELSA 2021</a></li><li id="menu-7062-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/celsa_2020" class="sf-depth-3">CELSA 2020</a></li><li id="menu-6363-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/celsa_2019" class="sf-depth-3">CELSA 2019</a></li><li id="menu-6362-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/celsa_2018" class="sf-depth-3">CELSA 2018</a></li><li id="menu-6361-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/celsa_2017" class="sf-depth-3">CELSA 2017</a></li></ul></li><li id="menu-5629-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="http://fiek.bme.hu/" title="" class="sf-depth-2">Felsőoktatási és Ipari Együttműködési Központ</a></li><li id="menu-7699-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="https://bridge.bme.hu/" title="" class="sf-depth-2">Bridge - Technológia és Transzfer Iroda</a></li><li id="menu-394-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/tudaskozpontok" class="sf-depth-2">Tudásközpontok</a></li><li id="menu-7064-1" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="https://tudprog.bme.hu" title="" class="sf-depth-2">Tudományos programok</a></li></ul></li><li id="menu-6937-1" class="middle odd sf-item-7 sf-depth-1 sf-no-children"><a href="http://nki.bme.hu/" title="" class="sf-depth-1">Nemzetközi kapcsolatok</a></li><li id="menu-403-1" class="middle even sf-item-8 sf-depth-1 sf-total-children-9 sf-parent-children-0 sf-single-children-9 menuparent"><a href="/egyetemi-elet" class="sf-depth-1 menuparent">Egyetemi élet</a><ul><li id="menu-404-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/programok" class="sf-depth-2">Programok</a></li><li id="menu-405-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/kultura" class="sf-depth-2">Kultúra</a></li><li id="menu-4530-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/egyetemi_klubok" class="sf-depth-2">Egyetemi klubok</a></li><li id="menu-406-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/sport" class="sf-depth-2">Sport</a></li><li id="menu-475-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/kollegiumok" class="sf-depth-2">Kollégiumok</a></li><li id="menu-407-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/szakkollegiumok" class="sf-depth-2">Szakkollégiumok</a></li><li id="menu-4529-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/hallgatoi_kulugyi_testulet" class="sf-depth-2">Hallgatói Külügyi Testület</a></li><li id="menu-408-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/egyetemi-es-kari-lapok" class="sf-depth-2">Egyetemi és kari lapok</a></li><li id="menu-557-1" class="last odd sf-item-9 sf-depth-2 sf-no-children"><a href="/alumni" class="sf-depth-2">Alumni</a></li></ul></li><li id="menu-409-1" class="active-trail last odd sf-item-9 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/sajto" class="sf-depth-1 menuparent">Sajtó</a><ul><li id="menu-462-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/rolunk-irtak" title="" class="sf-depth-2">A BME a sajtóban</a></li><li id="menu-1728-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/sajtokozlemenyek" class="sf-depth-2">Sajtóközlemények</a></li><li id="menu-411-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="http://foto.bme.hu" title="" class="sf-depth-2">Fénykép- és videótár</a></li><li id="menu-412-1" class="active-trail middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/mediakit-arculati-elemek" class="sf-depth-2 active">Médiakit, arculati elemek</a></li><li id="menu-413-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/kiadvanyok" class="sf-depth-2">Kiadványok</a></li></ul></li></ul>
+</div>
+  </div><!-- /.region -->
+    </div><!-- /#navigation -->
+	
+		
+    <div id="content" class="column" role="main" style="clear:both;">
+      
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Médiakit, arculati elemek</h1>
+                                          
+
+
+<article class="node-58 node node-page view-mode-full clearfix" about="/mediakit-arculati-elemek" typeof="foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Médiakit, arculati elemek" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>A Budapesti Műszaki és Gazdaságtudományi Egyetem arculati elemei közül az alábbiak használhatók fel. Kizárólag a BME azonosítására alkalmazhatók, illetve a BME-t érintő kiadványokban kerülhetnek felhasználásra.</p>
+<p>A teljes arculati leírás nyomtatott változata minden szervezeti egységnél rendelkezésre áll, illetve megtekinthető az <a href="http://intranet.bme.hu/arculat/">intraneten</a>.</p>
+<p><b>BME arculati elemek:</b></p>
+<table class="lsttbl" style="width: 696px;" width="965"><tbody><tr align="left" valign="top"><td style="width: 217px;">
+				<a href="/sites/default/files/mediakit//bme_cimer.jpg"><b>bme_cimer.jpg</b></a></td>
+<td style="width: 460px;">
+				BME címer</td>
+</tr><tr align="left" valign="top"><td style="width: 217px;">
+				<a href="/sites/default/files/mediakit/bme_font.zip"><b>bme_font.zip</b></a></td>
+<td style="width: 460px;">
+				Huni Quorum betűcsalád, a BME fő betűtípusa (TTF font)</td>
+</tr><tr align="left" valign="top"><td style="width: 217px;">
+				<a href="/sites/default/files/mediakit/bme_logo_kicsi.eps"><b>bme_logo_kicsi.eps</b></a></td>
+<td style="width: 460px;">
+				BME logó, kisméretű változat: 4,5 cm szélesség alatt használandó, illetve ahol a részletek már nem jönnének ki vagy technológiai korlátok vannak (EPS vektoros formátum)</td>
+</tr><tr align="left" valign="top"><td style="width: 217px;">
+				<a href="/sites/default/files/mediakit/bme_logo_kicsi.jpg"><b>bme_logo_kicsi.jpg</b></a></td>
+<td style="width: 460px;">
+				BME logó, kisméretű változat: a fenti logó JPG kép formátumban</td>
+</tr><tr align="left" valign="top"><td style="width: 217px;">
+				<a href="/sites/default/files/mediakit/bme_logo_nagy.eps"><b>bme_logo_nagy.eps</b></a></td>
+<td style="width: 460px;">
+				BME logó, nagyméretű változat: 4.5 cm feletti megjelenés esetén használandó standard logó (EPS vektoros formátum)</td>
+</tr><tr><td style="width: 217px;">
+				<a href="/sites/default/files/mediakit/bme_logo_nagy.jpg"><b>bme_logo_nagy.jpg</b></a></td>
+<td style="width: 460px;">
+				BME logó, nagyméretű változat: a fenti logó JPG kép formátumban</td>
+</tr><tr align="left" valign="top"><td style="width: 217px;">
+				<a href="/sites/default/files/mediakit/bme_logo_nagy_bordo.eps"><b>bme_logo_nagy_bordo.eps</b></a></td>
+<td style="width: 460px;">
+				BME logó, nagyméretű változat: a fenti logó bordó színben (EPS vektoros formátum)</td>
+</tr><tr><td style="width: 217px;">
+				<a href="/sites/default/files/mediakit/bme_logo_nagy_bordo.jpg"><b>bme_logo_nagy_bordo.jpg</b></a></td>
+<td style="width: 460px;">
+				BME logó, nagyméretű változat: a fenti logó JPG kép formátumban</td>
+</tr></tbody></table><p>A BME fő arculati színe (a „bordó” szín): Pantone 202 C</p>
+<p><b>BME kari logók:</b></p>
+<table class="lsttbl"><tbody><tr align="left" valign="top"><td width="200">
+				<a href="/sites/default/files/mediakit/bme_emk.zip"><b>bme_emk.zip</b></a></td>
+<td>
+				Építőmérnöki Kar (ÉMK)</td>
+</tr><tr align="left" valign="top"><td>
+				<a href="/sites/default/files/mediakit/bme_gpk.zip"><b>bme_gpk.zip</b></a></td>
+<td>
+				Gépészmérnöki Kar (GPK)</td>
+</tr><tr align="left" valign="top"><td>
+				<a href="/sites/default/files/mediakit/bme_epk.zip"><b>bme_epk.zip</b></a></td>
+<td>
+				Építészmérnöki Kar (ÉPK)</td>
+</tr><tr align="left" valign="top"><td>
+				<a href="/sites/default/files/mediakit/bme_vbk.zip"><b>bme_vbk.zip</b></a></td>
+<td>
+				Vegyészmérnöki és Biomérnöki Kar (VBK)</td>
+</tr><tr align="left" valign="top"><td>
+				<a href="/sites/default/files/mediakit/vik_logo.zip"><b>bme_vik.zip</b></a></td>
+<td>
+				Villamosmérnöki és Informatikai Kar (VIK)</td>
+</tr><tr align="left" valign="top"><td>
+				<a href="/sites/default/files/mediakit/bme_kjk.zip"><b>bme_kjk.zip</b></a></td>
+<td>
+				Közlekedésmérnöki és Járműmérnöki Kar (KJK)</td>
+</tr><tr align="left" valign="top"><td>
+				<a href="/sites/default/files/mediakit/bme_ttk.zip"><b>bme_ttk.zip</b></a></td>
+<td>
+				Természettudományi Kar (TTK)</td>
+</tr><tr align="left" valign="top"><td>
+				<a href="/sites/default/files/mediakit/bme_gtk.zip"><b>bme_gtk.zip</b></a></td>
+<td>
+				Gazdaság- és Társadalomtudományi Kar (GTK)</td>
+</tr></tbody></table><p> </p>
+</div></div></div>
+  
+  
+</article><!-- /.node -->
+          </div><!-- /#content -->
+
+    
+          <aside class="sidebars" style="">
+                  <section class="region region-sidebar-second column sidebar">
+    <div id="block-block-6" class="block block-block first odd">
+
+      
+  <div style="line-height:0px;">
+	 
+</div>
+
+</div>
+<div id="block-block-9" class="block block-block even">
+
+      
+  <p class="rtecenter"><a href="https://tudprog.bme.hu/kutej/2020/" target="_blank"><img alt="" src="/sites/default/files/pictures2/kutatok_ejszakaja_logo_2020.png" style="width: 160px; height: 84px;" /></a></p>
+
+</div>
+<div id="block-block-29" class="block block-block odd">
+
+      
+  <p class="rtecenter"><a href="https://tudprog.bme.hu/tudunnep/2020/" target="_blank"><img alt="" src="/sites/default/files/pictures2/a_magyar_tudomany_unnepe_logo_11.jpg" style="width: 225px; height: 75px; border-width: 0px; border-style: solid;" /></a></p>
+
+</div>
+<div id="block-block-26" class="block block-block even">
+
+      
+  <p class="rtecenter"><a href="https://hszi.bme.hu/programajanlo/nyilt-nap/" target="_blank"><img alt="" src="/sites/default/files/pictures2/nyiltnap_2020.png" style="width: 225px; height: 158px;" /></a></p>
+
+</div>
+<div id="block-block-18" class="block block-block odd">
+
+      
+  <div class="rtecenter" style="color: white; background-color: #A82B31; font-family: 'Oswald' !important; text-transform: uppercase; padding-top: 6px; padding-bottom: 6px; margin-bottom: 0px">
+	<span style="font-size:18px;"><a href="/felvetelizoknek"><span style="color: rgb(255, 255, 255);">FELVÉTELizőknek</span></a></span>
+</div>
+</div>
+<div id="block-block-21" class="block block-block even">
+
+      
+  <p><a href="/unkp"><img alt="" height="67" src="/sites/default/files/pictures2/unkp_logo_1.jpg" width="225" /></a></p>
+
+</div>
+<div id="block-views-calendar-block-1" class="block block-views odd">
+
+      
+  <div class="view view-calendar view-id-calendar view-display-id-block_1 view-dom-id-a28c02eb4de9274ad342f80871cd1ec4">
+            <div class="view-header">
+      <div class="date-nav-wrapper clearfix">
+  <div class="date-nav item-list">
+    <div class="date-heading">
+      <h3><a href="https://www.bme.hu/calendar-node-field-idopont/month/2020-11" title="View full page month">2020 november</a></h3>
+    </div>
+    <ul class="pager">
+          <li class="date-prev">
+        <a href="https://www.bme.hu/mediakit-arculati-elemek?mini=2020-10" title="Navigálás az előző hónapra" rel="nofollow">&laquo;</a>      </li>
+              <li class="date-next">
+        <a href="https://www.bme.hu/mediakit-arculati-elemek?mini=2020-12" title="Navigálás a következő hónapra" rel="nofollow">&raquo;</a>      </li>
+        </ul>
+  </div>
+</div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="calendar-calendar"><div class="month-view">
+ 
+<table class="mini">
+  <thead>
+    <tr>
+              <th class="days mon">
+          h        </th>
+              <th class="days tue">
+          k        </th>
+              <th class="days wed">
+          sze        </th>
+              <th class="days thu">
+          cs        </th>
+              <th class="days fri">
+          p        </th>
+              <th class="days sat">
+          szo        </th>
+              <th class="days sun">
+          v        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr>
+                  <td id="calendar-2020-10-26" class="mon mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-10-27" class="tue mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-10-28" class="wed mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-10-29" class="thu mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-10-30" class="fri mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-10-31" class="sat mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-01" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 1 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2020-11-02" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 2 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-03" class="tue mini past has-events">
+            <div class="month mini-day-on"> <a href="https://www.bme.hu/calendar-node-field-idopont/day/2020-11-03">3</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-04" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> 4 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-05" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> 5 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-06" class="fri mini past has-events">
+            <div class="month mini-day-on"> <a href="https://www.bme.hu/calendar-node-field-idopont/day/2020-11-06">6</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-07" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> 7 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-08" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 8 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2020-11-09" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 9 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-10" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> 10 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-11" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> 11 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-12" class="thu mini past has-events">
+            <div class="month mini-day-on"> <a href="https://www.bme.hu/calendar-node-field-idopont/day/2020-11-12">12</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-13" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> 13 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-14" class="sat mini past has-events">
+            <div class="month mini-day-on"> <a href="https://www.bme.hu/calendar-node-field-idopont/day/2020-11-14">14</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-15" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 15 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2020-11-16" class="mon mini past has-events">
+            <div class="month mini-day-on"> <a href="https://www.bme.hu/calendar-node-field-idopont/day/2020-11-16">16</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-17" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> 17 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-18" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> 18 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-19" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> 19 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-20" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> 20 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-21" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> 21 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-22" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 22 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2020-11-23" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 23 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-24" class="tue mini past has-events">
+            <div class="month mini-day-on"> <a href="https://www.bme.hu/calendar-node-field-idopont/day/2020-11-24">24</a> </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-25" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> 25 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-26" class="thu mini today has-no-events">
+            <div class="month mini-day-off"> 26 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-27" class="fri mini future has-no-events">
+            <div class="month mini-day-off"> 27 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-28" class="sat mini future has-no-events">
+            <div class="month mini-day-off"> 28 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-11-29" class="sun mini future has-no-events">
+            <div class="month mini-day-off"> 29 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2020-11-30" class="mon mini future has-no-events">
+            <div class="month mini-day-off"> 30 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-12-01" class="tue mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-12-02" class="wed mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-12-03" class="thu mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-12-04" class="fri mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-12-05" class="sat mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-12-06" class="sun mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+      </tbody>
+</table>
+</div></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-views-kozelgo-esemenyek-block" class="block block-views even">
+
+        <h2 class="block__title block-title">Közelgő események</h2>
+    
+  <div class="view view-kozelgo-esemenyek view-id-kozelgo_esemenyek view-display-id-block events view-dom-id-8024dbedd2f248bce29b93e3d5d13b0a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-idopont">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-12-01T14:00:00+01:00">2020. 12. 01. 14:00</span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/8171">EU HORIZONT EURÓPA - Európai Partnerségek</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-idopont">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-12-02T16:30:00+01:00">2020. 12. 02. 16:30</span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/8173">Hory Gergely nyilvános doktori védése</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-idopont">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-12-07T14:00:00+01:00">2020. 12. 07. 14:00</span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/7491">Palotás László díj átadása - Online</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="http://www.bme.hu/esemenyek" class="morenews">Összes esemény</a> </p>
+    </div>
+  
+  
+</div>
+</div>
+<div id="block-block-32" class="block block-block odd">
+
+      
+  <div class="rtecenter" style="color: white; background-color: #A82B31; font-family: 'Oswald' !important; text-transform: uppercase; padding-top: 6px; padding-bottom: 6px; margin-bottom: 0px">
+	<a href="/diplomakibocsatas"><span style="font-size:18px;"><span style="color: rgb(255, 255, 255);">Diplomakibocsátással kapcsolatos hírek</span></span></a></div>
+
+</div>
+<div id="block-block-25" class="block block-block even">
+
+      
+  <p><a href="https://projektek.bme.hu/index.php?site=3_0" target="_blank"><img alt="" src="/sites/default/files/sz2020_banner_225.jpg" style="width: 225px; height: 56px;" /></a></p>
+
+</div>
+<div id="block-block-14" class="block block-block odd">
+
+      
+  <div class="rtecenter" style="color: white; background-color: #A82B31; font-family: 'Oswald' !important; text-transform: uppercase; padding-top: 6px; padding-bottom: 6px; margin-bottom: 16px">
+	<span style="font-size:16px;"><a href="http://bmeapp.mik.bme.hu/" target="_blank"><span style="color: rgb(255, 255, 255);"><strong>BME Mobilapplikáció</strong></span></a></span></div>
+
+</div>
+<div id="block-block-3" class="block block-block last even">
+
+      
+  <div id="social_icons">
+	<a href="https://www.facebook.com/pages/Budapesti-M%C5%B1szaki-%C3%A9s-Gazdas%C3%A1gtudom%C3%A1nyi-Egyetem/432695943450503" title="Facebook"><img alt="Facebook" src="/sites/default/files/social_icon_32_facebook.png" style="margin-left: 3px; margin-right: 3px;" /></a> <a href="https://twitter.com/BME_hu" title="Twitter"><img alt="Twitter" src="/sites/default/files/social_icon_32_twitter.png" style="margin-left: 3px; margin-right: 3px;" /></a> <a href="https://www.youtube.com/channel/UCEysrQE5pc1g3j2nMAbGiww" title="YouTube"><img alt="YouTube" src="/sites/default/files/social_icon_32_youtube.png" style="margin-left: 3px; margin-right: 3px;" /></a> <a href="rss.xml" title="RSS"><img alt="RSS" src="/sites/default/files/social_icon_32_rss.png" style="margin-left: 3px; margin-right: 3px;" /></a></div>
+<div>
+	<span style="white-space: nowrap"><a href="https://kancellaria.bme.hu/emergency" target="_blank" title="Elsősegély"><img alt="Elsősegély" src="/sites/default/files/elsosegely_58p.png" style="width: 54px; height: 58px;" /></a></span></div>
+
+</div>
+  </section>
+      </aside><!-- /.sidebars -->
+	  
+	  <!--[if IE 8]>
+	  <![endif]-->
+	  
+    
+  </div><!-- /#main -->
+
+
+</div><!-- /#page -->
+
+
+
+  <footer id="footer" class="width100 footer-links clearfix" style="margin-top:30px;color: #000;padding-bottom:30px;padding-top:20px;background: #fff;border-top:1px solid #ccc !important;border-bottom:0px solid #ccc !important;box-shadow: 20px 0px 0px 0px #dfdfdf;font-family: 'Open Sans';font-size:13px;font-weight:400;">
+	  <div class="width1000">
+		<div id="block-block-1" class="block block-block first last odd">
+
+      
+  <div class="footer-links">
+<div style="float:left;border:0px solid;width:195px;padding-right:40px;padding-left:10px;">
+<h4>
+			Munkatársaknak</h4>
+<ul><li>
+				<a href="https://telefon.bme.hu/">Telefonkönyv</a></li>
+<li>
+				<a href="https://frame.neptun.bme.hu/oktatoi/login.aspx">NEPTUN (Oktatói)</a></li>
+<li>
+				<a href="http://rektori.bme.hu/" target="_blank">Szenátus, Rektori Kabinet</a></li>
+<li>
+				<a href="http://doktori.bme.hu/">Egyetemi habilitációs bizottság és doktori tanács</a></li>
+<li>
+				<a href="/nevjegyigenyles">Névjegyigénylés</a></li>
+<li>
+				<a href="/sites/default/files/csatolmanyok/BME-szobrok-nevesitett%20termek-emlektablak_20201021.xls" target="_blank">Szobrok, emléktáblák, termek</a></li>
+</ul></div>
+<div style="float:left;border:0px solid;width:195px;padding-right:40px;">
+<h4>
+			Hallgatóknak</h4>
+<ul><li>
+				<a href="http://www.kth.bme.hu/">Tanulmányi ügyek (KTH)</a></li>
+<li>
+				<a href="http://nki.bme.hu/" target="_blank">Erasmus</a></li>
+<li>
+				<a href="https://frame.neptun.bme.hu/hallgatoi/login.aspx">NEPTUN (Hallgatói)</a></li>
+<li>
+				<a href="http://www.hszk.bme.hu/">HSZK</a></li>
+<li>
+				<a href="/egyetemi-elet">Egyetemi élet</a></li>
+<li>
+				<a href="/programok">Programok</a></li>
+<li>
+				<a href="/kollegiumok">Kollégiumok</a></li>
+<li>
+				<a href="/sport">Sport</a></li>
+<li>
+				<a href="http://www.omikk.bme.hu/">Könyvtár</a></li>
+<li>
+				<a href="http://www.sc.bme.hu/">Hallgatói Szolgáltatási Igazgatóság</a></li>
+<li>
+				<a href="http://tdk.bme.hu">TDK</a></li>
+<li>
+				<a href="/tehetséggondozás">Tehetséggondozás</a></li>
+<li>
+				<a href="http://inyk.bme.hu/" target="_blank">Idegen Nyelvi Központ</a></li>
+</ul></div>
+<div style="float:left;border:0px solid;width:195px;padding-right:30px;">
+<h4>
+			Szolgáltatások</h4>
+<ul><li>
+				<a href="http://www.omikk.bme.hu/">Könyvtár</a></li>
+<li>
+				<a href="https://www.mtmt.hu/mtmt-dokumentumok">Magyar Tudományos Művek Tára</a></li>
+<li>
+				<a href="http://www.pp.bme.hu/">Periodica Polytechnica</a></li>
+<li>
+				<a href="http://net.bme.hu/">Bmenet</a></li>
+<li>
+				<a href="http://www.nyelviskola.bme.hu/">Nyelviskola</a></li>
+<li>
+				<a href="http://www.bmenyelvvizsga.bme.hu/">Nyelvvizsga Központ</a></li>
+<li>
+				<a href="http://tfk.bme.hu/" target="_blank">Tolmács- és fordítóképző Központ</a></li>
+<li>
+				<a href="http://www.szkene.hu/">Szkéné Színház</a></li>
+<li>
+				<a href="http://www.allasborze.bme.hu">Műegyetemi állásbörze</a></li>
+<li>
+				<a href="http://www.miszisz.hu">Diákmunka</a></li>
+<li>
+				<a href="https://alfa.bme.hu/">Alfa gyakorlófelület</a></li>
+<li>
+				<a href="https://kancellaria.bme.hu/emergency" target="_blank">Orvosi rendelők</a></li>
+<li>
+				<a href="/palyazatok">Pályázati felhívások</a></li>
+</ul></div>
+<div style="width:225px;float:right;margin-left:30px;">
+<h4>
+			Kapcsolat</h4>
+<p><span>cím</span>1111 Budapest,<br />
+			Műegyetem rkp. 3. (<a href="/elerhetoseg">Térkép</a>)</p>
+<p><span>telefon</span>Központi tel.: +36 1 463-1111<br />
+			Központi fax: +36 1 463-1110</p>
+<p><span>e-mail</span>Központi e-mail cím: <a href="mailto:info@bme.hu">info@bme.hu</a></p>
+</div>
+</div>
+<p> </p>
+
+</div>
+	  </div>
+  </footer><!-- region__footer -->
+
+
+<div class="copyright">  <div class="region region-copyright">
+    <div id="block-block-7" class="block block-block first last odd">
+
+      
+  <p><a href="/impresszum">Impresszum</a> | Copyright © 2020 Budapesti Műszaki és Gazdaságtudományi Egyetem</p>
+
+</div>
+  </div><!-- /.region -->
+</div>
+  <script>window.eu_cookie_compliance_cookie_name = "";</script>
+<script defer="defer" src="https://www.bme.hu/sites/all/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?qke9gj"></script>
+</body>
+</html>

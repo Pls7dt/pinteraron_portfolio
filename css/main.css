@@ -1,0 +1,161 @@
+    
+ }
+*,*::before,*::after{
+	box-sizing: border-box;
+	margin:0;
+	padding:0;
+}
+img{
+	max-width: 100%;
+}
+a{
+	color:#000000;
+	text-decoration: none;
+	color:black;
+}
+
+ body{
+
+display: grid;
+grid-template-areas: 
+    "fejlec"
+     "main"
+     "lablec"
+     ;
+grid-template-rows: max-content 1fr max-content;
+min-height: 100vh;
+ }
+ #cím{
+ 	
+ 	font-size: 30px;
+ 	font-weight: 300px;
+ }
+ .header{
+ 	text-align: right;
+ 	font-size:12px;
+ 	font-family: 'Texturina', serif;
+ }
+
+ header{
+ 	grid-area: fejlec;
+    background-color: white;
+    line-height: 0.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    
+
+ }
+ main{
+ 	grid-area: main;
+ 	background-color: white;
+ 	margin-left: 1rem;
+ 	margin-right: 1rem;
+ 	
+
+ }
+ footer{
+ 	grid-area: lablec;
+ 	background-color: white;
+ }
+ 
+ .shadow {
+-webkit-box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 27px -8px #141414, inset 0px -10px 27px -8px #A31925, inset 5px 5px 0px 2px rgba(0,0,0,0.12); 
+box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 27px -8px #141414, inset 0px -10px 27px -8px #A31925, inset 5px 5px 0px 2px rgba(0,0,0,0.12);
+line-height: 2rem;
+
+margin-top: 1rem;
+
+
+
+
+
+}
+.para{
+padding-left: 1rem;
+padding-right: 1rem;
+text-decoration: none;
+font color: white;
+font-family: 'Texturina', serif;
+cursor:pointer;
+text-decoration: underline;
+color:white;
+
+
+
+}
+.para a{
+	color:white;
+}
+
+#cim{
+font-family: 'Texturina', serif;
+
+
+
+}
+.szoveg{
+    grid-area: szoveg; 
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	
+}
+.ok{
+
+	padding-bottom: 1rem;
+	padding-top: 1rem;
+}
+.sh{
+
+	cursor: pointer;
+	text-decoration: underline;
+	color:black; 
+}
+ 	h3{
+     text-decoration: underline;
+
+
+ 	}
+ 	.kep img{
+ 		max-width: 30%;
+ 		padding-top: 1rem;
+ 		
+
+
+
+ 	}
+ 	.header img{
+ 		max-width: 10%;
+ 		align-content:left;
+ 	}
+
+.feher{
+	color: white;
+ }
+
+ .rejtett{
+   color: white;
+
+ }
+details{
+	cursor: pointer;
+}	
+
+
+}
+ summary{
+ 	cursor: pointer;
+ }
+ .grid{
+ 	display: grid;
+ 	grid-template-columns: minmax(min-content, 1fr) 1fr
+ 	"szoveg kep";
+ }
+
+ .kep{
+ 	grid-area:kep;
+ }
+
+ 
+ 
+ 
+ 
